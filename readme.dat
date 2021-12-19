@@ -1,0 +1,11 @@
+Steps to run the code:-
+
+-> Open "index.html" file in web browser
+-> Play the game in turn 
+-> It starts with "X"
+-> Then if condition for win is satisfied, you win & game will stop (i.e. no more "X" or "0")
+-> Else If all blocks are filled, its Draw.
+-> Else the game will continue
+-> Click on "Reset" to start over again
+
+Hence all condition of game is satisfied.
